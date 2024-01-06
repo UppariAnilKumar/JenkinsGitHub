@@ -3,12 +3,11 @@ package TestCase2;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class DemoTest {
+public class Githubcode {
 	@Test
-	public void k1()
+	public void b1()
 	{
-		System.out.println("hello");
-		Reporter.log("K1 pass",true);
+		Reporter.log("bi is sucessefull",true);
 	}
 
 }

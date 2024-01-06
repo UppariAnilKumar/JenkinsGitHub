@@ -8,6 +8,11 @@ public class TC1Test {
 	public void m1()
 	{
 		Reporter.log("M1 executed",true);
+		Reporter.log("M1 executed",true);
+		Reporter.log("M1 executed",true);
+		Reporter.log("M1 executed",true);
+		Reporter.log("M1 executed",true);
+		Reporter.log("M1 executed",true);
 	}
 
 }

@@ -12,6 +12,7 @@ public class TestCase2 {
 		Reporter.log("m2 executed",true);
 	}
 	
+	@Test
 	public void m3()
 	{
 		Reporter.log("m3 executed",true);

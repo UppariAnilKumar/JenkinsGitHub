@@ -1,5 +1,6 @@
 package TestCase2;
 
+import org.testng.annotations.Test;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 

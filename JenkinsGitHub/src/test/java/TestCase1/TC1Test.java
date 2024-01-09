@@ -13,7 +13,7 @@ public class TC1Test {
 		Reporter.log("M1 executed",true);
 		Reporter.log("M1 executed",true);
 		Reporter.log("M1 executed",true);
-		Reporter.log("M1 executed",true);
+		System.out.println("m1 executed");
 	}
 
 }
